@@ -2035,4 +2035,4 @@ PAPER ROLL, UNTESTED.
 
 CC BY-NC-ND 4.0
 
-Copyright © 2026 [INSERT AUTHOR OR RIGHTS HOLDER]
+Copyright © 2026 Maximillian C Smith
